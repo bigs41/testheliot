@@ -1,0 +1,11 @@
+<template>
+  <div>
+    <div class="card" style="width: 18rem">
+      <div class="card-body"></div>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {};
+</script>
